@@ -1,4 +1,9 @@
 # Healthy Life App
+# Healthy Life App
+# Healthy Life App
+# Healthy Life App
+# Healthy Life App
+# Healthy Life App
 
 ## _The best app that could handle your nutirition plan_
 
@@ -22,5 +27,5 @@ The Healthy Life App is an all-in-one platform designed to empower individuals i
 - Community Support: Social features to connect with like-minded individuals and share progress.
 - Progress Analytics: Visual dashboards to track improvements in diet, fitness, and mental health over time.
 - get fit and be active
-- play sport
+- play sportgit add .
  
